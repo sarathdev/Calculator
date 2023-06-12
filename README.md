@@ -45,8 +45,6 @@ To get started with the calculator app, follow the instructions below:
    ionic serve
    ```
 
-2. Open your web browser and visit `http://localhost:8100` to access the calculator app.
-
 ### Running the iOS App
 
 1. Install the necessary dependencies:

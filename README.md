@@ -81,3 +81,11 @@ To get started with the calculator app, follow the instructions below:
 2. Press the `=` button to evaluate the expression and display the result.
 3. Use the `AC` button to clear the input and start a new calculation.
 
+<img width="351" alt="Screenshot 2023-06-12 at 4 06 30 PM" src="https://github.com/sarathdev/Calculator/assets/11920131/d003778b-7cea-497c-b69e-d0f0f82227a7">
+
+
+
+
+https://github.com/sarathdev/Calculator/assets/11920131/149d73a1-2328-4f29-be2c-d225655c26a5
+
+

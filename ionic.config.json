@@ -1,0 +1,7 @@
+{
+  "name": "Calculator-onexip-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

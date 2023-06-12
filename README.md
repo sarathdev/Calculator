@@ -58,7 +58,7 @@ To get started with the calculator app, follow the instructions below:
 2. Add the iOS platform:
 
    ```bash
-   npx cap add ios
+   ionic capacitor add
    ```
 
 3. Build the project:
